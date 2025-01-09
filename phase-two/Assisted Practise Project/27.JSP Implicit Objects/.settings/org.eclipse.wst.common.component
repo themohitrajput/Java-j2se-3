@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="24.JSP Implicit Objects">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resource"/>
+        <property name="context-root" value="24.JSP_Implicit_Objects"/>
+        <property name="java-output-path" value="/24.JSP Implicit Objects/build/classes"/>
+    </wb-module>
+</project-modules>

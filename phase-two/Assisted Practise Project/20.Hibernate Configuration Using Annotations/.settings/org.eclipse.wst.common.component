@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="18.Hibernate Configuration Using Annotations">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resource"/>
+        <property name="context-root" value="18.Hibernate_Configuration_Using_Annotations"/>
+        <property name="java-output-path" value="/18.Hibernate Configuration Using Annotations/build/classes"/>
+    </wb-module>
+</project-modules>
